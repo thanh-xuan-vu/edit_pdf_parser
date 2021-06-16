@@ -1,2 +1,2 @@
-# edit_pdf_parser
+# Editable PDF Parser
 A script to parse editable pdf files. 
